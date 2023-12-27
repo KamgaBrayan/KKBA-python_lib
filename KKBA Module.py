@@ -355,6 +355,5 @@ def quadratic(liste):
         sum_liste += nb**2
     return sqrt(sum_liste/len(liste))
 
-def multiply(a,b):
-    return a*b
+
 
